@@ -1,0 +1,71 @@
+body{
+	background-color: lightskyblue;
+	font-family: sans-serif;
+	height: auto;
+}
+div{
+
+	display: block;
+	width: 70%;
+	height: auto;
+	background-color: whitesmoke;
+	margin-top: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2%;
+	border-radius: 15px;
+	}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+}
+h3{
+	text-align: center;
+	font-family: Arial;
+}
+form{
+	text-align: right;
+	margin-right: 200px;
+}
+form.selection{
+text-align: right;
+margin-right: 25%;
+}
+p{
+	text-align: right;
+margin-right: 400px;
+}
+div.option{
+	margin-top: -60px;
+	margin-right: 200px;
+	text-align: left;
+	width: 200px;
+}
+div.option2{
+	margin-top: -60px;
+	margin-right: 200px;
+	text-align: left;
+}
+input {
+  width: 250px;
+  float: auto;
+  border-radius: 5px;
+	border-width: thin;
+}
+input.op1{
+  width: 10px;
+  margin-right: auto;
+  float: auto;
+}
+input.op2{
+  width: 10px;
+  margin-right: auto;
+  float: auto;
+}
+input.experience{
+	width: 400px;
+	height: 50px;
+	margin-bottom: 50px;
+	border-radius: 10px;
+	border-width: thin;
+}
